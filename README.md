@@ -1,1 +1,1 @@
-# magento2-brazil-checkout
+# Brazil Checkout for Magento 2
